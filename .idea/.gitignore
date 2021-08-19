@@ -6,3 +6,10 @@
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
+
+/misc.xml
+/modules.xml
+/runConfigurations.xml
+/uiDesigner.xml
+/vcs.xml
+../예제가 가득한 JAVA.iml
